@@ -1,0 +1,101 @@
+ID,Country,Population,Capital,Continent,Area_km2
+1,China,1412000000,Beijing,Asia,9596961
+2,India,1408000000,New Delhi,Asia,3287263
+3,United States,335000000,Washington,North America,9833517
+4,Indonesia,278000000,Jakarta,Asia,1904569
+5,Pakistan,229000000,Islamabad,Asia,881912
+6,Nigeria,216000000,Abuja,Africa,923768
+7,Brazil,215000000,Brasilia,South America,8515767
+8,Bangladesh,171000000,Dhaka,Asia,147570
+9,Russia,146000000,Moscow,Europe/Asia,17098242
+10,Mexico,128000000,Mexico City,North America,1964375
+11,Japan,125000000,Tokyo,Asia,377975
+12,Ethiopia,123000000,Addis Ababa,Africa,1104300
+13,Philippines,115000000,Manila,Asia,300000
+14,Egypt,106000000,Cairo,Africa,1002450
+15,Vietnam,98800000,Hanoi,Asia,331212
+16,DR Congo,96900000,Kinshasa,Africa,2344858
+17,Turkey,85300000,Ankara,Europe/Asia,783562
+18,Iran,85000000,Tehran,Asia,1648195
+19,Germany,83200000,Berlin,Europe,357022
+20,France,68000000,Paris,Europe,551695
+21,United Kingdom,67200000,London,Europe,242495
+22,Thailand,71600000,Bangkok,Asia,513120
+23,Tanzania,63200000,Dodoma,Africa,947300
+24,South Africa,59300000,Pretoria,Africa,1221037
+25,Italy,58900000,Rome,Europe,301340
+26,Myanmar,54800000,Naypyidaw,Asia,676578
+27,Kenya,55100000,Nairobi,Africa,580367
+28,South Korea,51700000,Seoul,Asia,100210
+29,Colombia,51600000,Bogota,South America,1141748
+30,Spain,47500000,Madrid,Europe,505992
+31,Argentina,45800000,Buenos Aires,South America,2780400
+32,Uganda,45800000,Kampala,Africa,241550
+33,Ukraine,43700000,Kyiv,Europe,603500
+34,Algeria,43600000,Algiers,Africa,2381741
+35,Sudan,42800000,Khartoum,Africa,1886068
+36,Iraq,40200000,Baghdad,Asia,438317
+37,Afghanistan,40000000,Kabul,Asia,652230
+38,Poland,37700000,Warsaw,Europe,312679
+39,Canada,38200000,Ottawa,North America,9984670
+40,Morocco,37200000,Rabat,Africa,446550
+41,Saudi Arabia,36200000,Riyadh,Asia,2149690
+42,Uzbekistan,36200000,Tashkent,Asia,447400
+43,Peru,34200000,Lima,South America,1285216
+44,Malaysia,34000000,Kuala Lumpur,Asia,330803
+45,Angola,33600000,Luanda,Africa,1246700
+46,Mozambique,32100000,Maputo,Africa,801590
+47,Ghana,32300000,Accra,Africa,238533
+48,Yemen,31100000,Sana'a,Asia,527968
+49,Nepal,30500000,Kathmandu,Asia,147516
+50,Venezuela,28400000,Caracas,South America,916445
+51,Madagascar,28200000,Antananarivo,Africa,587041
+52,Cameroon,27200000,Yaounde,Africa,475442
+53,Cote d'Ivoire,27400000,Yamoussoukro,Africa,322463
+54,North Korea,25800000,Pyongyang,Asia,120538
+55,Australia,25700000,Canberra,Oceania,7692024
+56,Niger,25300000,Niamey,Africa,1267000
+57,Taiwan,23500000,Taipei,Asia,36193
+58,Sri Lanka,21900000,Colombo,Asia,65610
+59,Burkina Faso,22300000,Ouagadougou,Africa,274200
+60,Mali,21500000,Bamako,Africa,1240192
+61,Chile,19600000,Santiago,South America,756102
+62,Kazakhstan,19200000,Nur-Sultan,Asia,2724900
+63,Malawi,19800000,Lilongwe,Africa,118484
+64,Zambia,19400000,Lusaka,Africa,752612
+65,Guatemala,17600000,Guatemala City,North America,108889
+66,Netherlands,17600000,Amsterdam,Europe,41543
+67,Ecuador,17800000,Quito,South America,276841
+68,Syria,17500000,Damascus,Asia,185180
+69,Senegal,17300000,Dakar,Africa,196722
+70,Cambodia,16900000,Phnom Penh,Asia,181035
+71,Chad,16900000,N'Djamena,Africa,1284000
+72,Somalia,16600000,Mogadishu,Africa,637657
+73,Zimbabwe,16300000,Harare,Africa,390757
+74,Guinea,13800000,Conakry,Africa,245857
+75,Rwanda,13400000,Kigali,Africa,26338
+76,Benin,12700000,Porto-Novo,Africa,114763
+77,Burundi,12600000,Gitega,Africa,27834
+78,Tunisia,12000000,Tunis,Africa,163610
+79,Bolivia,12000000,La Paz,South America,1098581
+80,Belgium,11600000,Brussels,Europe,30528
+81,Haiti,11500000,Port-au-Prince,North America,27750
+82,Jordan,11300000,Amman,Asia,89342
+83,Dominican Republic,11100000,Santo Domingo,North America,48671
+84,Cuba,11100000,Havana,North America,109884
+85,South Sudan,10900000,Juba,Africa,619745
+86,Czech Republic,10700000,Prague,Europe,78867
+87,Greece,10400000,Athens,Europe,131990
+88,Portugal,10300000,Lisbon,Europe,92090
+89,Azerbaijan,10100000,Baku,Asia,86600
+90,Sweden,10400000,Stockholm,Europe,450295
+91,Hungary,9600000,Budapest,Europe,93028
+92,Belarus,9400000,Minsk,Europe,207600
+93,United Arab Emirates,9360000,Abu Dhabi,Asia,83600
+94,Tajikistan,9300000,Dushanbe,Asia,143100
+95,Israel,9260000,Jerusalem,Asia,20770
+96,Austria,8900000,Vienna,Europe,83879
+97,Switzerland,8700000,Bern,Europe,41284
+98,Papua New Guinea,8940000,Port Moresby,Oceania,462840
+99,Sierra Leone,8300000,Freetown,Africa,71740
+100,Laos,7300000,Vientiane,Asia,236800
